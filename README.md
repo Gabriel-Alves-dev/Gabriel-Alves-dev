@@ -2,19 +2,20 @@
 # Olá devs, me chamo Gabriel Alves! 
 
 
-    🔭 Atualmente estou trabalhando em soluções tecnologicas para o meio jurídico;
-    🌱 Me aperfeiçoando em Node.js;
-    🧑‍🤝‍🧑 Fique a vontade para fazer sua contribuição, dar dicas e sugestões;
-    📫 Entre em contato por Email, linkedIn ou Instagram utilizando os icones.
-    
-<div align="center" >
+- 🔭 Atualmente estou trabalhando em soluções tecnologicas para o meio jurídico;
+- 🌱 Me aperfeiçoando em Node.js;
+- 🧑‍🤝‍🧑 Fique a vontade para fazer sua contribuição, dar dicas e sugestões;
+- 📫 Entre em contato por Email, linkedIn ou Instagram utilizando os icones.
 
 <div>
 <a href="https://github.com/Gabriel-Alves-dev">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Alves-dev&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Alves-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
 </div>
-
+    
+<div align="center" >
+    
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
