@@ -2,16 +2,19 @@
 # Olá devs, me chamo Gabriel Alves! 
 
 
-    - 🔭 Atualmente estou trabalhando em soluções tecnologicas para o meio jurídico;
-    - 🌱 Me aperfeiçoando em Node.js;
-    - 🧑‍🤝‍🧑 Fique a vontade para fazer sua contribuição, dar dicas e sugestões;
-    - 📫 Entre em contato por Email, linkedIn ou Instagram utilizando os icones.
+- 🔭 Atualmente estou trabalhando em soluções tecnologicas para o meio jurídico;
+- 🌱 Me aperfeiçoando em Node.js;
+- 🧑‍🤝‍🧑 Fique a vontade para fazer sua contribuição, dar dicas e sugestões;
+- 📫 Entre em contato por Email, linkedIn ou Instagram utilizando os icones.
+#
 
 <div aling="center">
 <a href="https://github.com/Gabriel-Alves-dev">
-<img loading="lazy" width="500em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Alves-dev&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Alves-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+<img loading="lazy" width="450em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Alves-dev&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" width="450em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Alves-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
 </div>
+    
+#
     
 <div align="center" >
     
