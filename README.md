@@ -26,7 +26,7 @@
 
 #
 <a href="https://skillicons.dev" >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,nodejs,express,figma,github,linux,postman,bootstrap,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,nodejs,express,figma,github,postman,bootstrap,mysql" />
 </a>
 
 #
