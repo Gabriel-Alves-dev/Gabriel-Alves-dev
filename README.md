@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou trabalhando em soluções tecnologicas para o meio jurídico;
-- 🌱 Me aperfeiçoando em Node.js;
+- 🌱 Me aperfeiçoando em Node e React;
 - 🧑‍🤝‍🧑 Fique a vontade para fazer sua contribuição, dar dicas e sugestões;
 - 📫 Entre em contato por Email, linkedIn ou Instagram utilizando os icones.
 #
